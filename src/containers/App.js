@@ -9,7 +9,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        App
+        App D
         <VueWeathers/>
       </div>
     );
